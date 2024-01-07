@@ -23,9 +23,9 @@ int Option;               //Main menu
     cout << "> How can i help you ?\n" << endl;
 
     cout<<"|    1   | "<<"Add a contact"<<std::endl;
-    cout<<"|    2   | "<<"Edit contact"<<std::endl;
+    cout<<"|    2   | "<<"Edit a contact"<<std::endl;
     cout<<"|    3   | "<<"Delete a contact"<<std::endl;
-    cout<<"|    4   | "<<"View all users"<<std::endl;
+    cout<<"|    4   | "<<"View all contacts"<<std::endl;
     cout<<"|    5   | "<<"Search for a contact"<<std::endl;
     cout<<"|    6   | "<<"Exit"<<std::endl;
     cout << "\n> Choose an option: ";
