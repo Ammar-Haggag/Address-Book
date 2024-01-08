@@ -190,7 +190,7 @@ void editContact(){        //This part allows you to edit the entries.
     string Fname, Lname, Address, Contact, Fname2, Lname2, Address2, Contact2, choice2, choice3;
     ifstream edit("AddressBook.txt");
     ofstream temp("Temp.txt", ios::app);
-    cout << "Please type the Entry number that you wish to edit: ";
+    cout << "Please type the index number that you wish to edit: ";
     cin >> choice;
     cout << endl;
     if (choice==0 || choice > 100){
