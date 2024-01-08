@@ -15,7 +15,7 @@ void deleteContact();
 int main()
 {                //Main Function
 
-bool run=true; // for check if you need choose a option or exit
+bool run=true; // for check if you need to choose an option or exit
 
 do{
 int Option;               //Main menu
